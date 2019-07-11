@@ -1,6 +1,6 @@
 # Zombie Diner
 
-Zombie Diner was created for Flatiron School's 2019 Gam Jam and won "Funniest Game".
+Zombie Diner was built in two days for Flatiron School's 2019 Gam Jam and won "Funniest Game".
 
 # How To Play
 Zombies are hungry, clear all the food orders by adding the right ingredients to the plate before serving them.
@@ -8,6 +8,8 @@ Zombies are hungry, clear all the food orders by adding the right ingredients to
 Can you clear all the orders before the time runs out?
 
 Demo - https://zombie-diner.herokuapp.com
+
+![](zombie-diner.gif)
 
 # Team
 - [Jacob](https://www.github.com/jacolam)
